@@ -1,3 +1,5 @@
 Hello, this is in remote code center.
 host add 1 line.
 remote add 1 line. 2210060948
+
+test push through ssh in 2022/10/06 22:26.
